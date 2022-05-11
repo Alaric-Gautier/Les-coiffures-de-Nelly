@@ -1,2 +1,7 @@
 # Les-coiffures-de-Nelly
-Site vitrine pour un artisan coiffeur
+Showcase site for an artisan hairdresser
+
+# technologies used
+ - front : bootstrap
+ - back : symfony
+ - BDD : MySQL
